@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hank183
-- 👀 I’m interested in NLP
+- 👋 Hi, I’m Han Xuchang
+- 👀 I’m pursuing a master's degree in computer science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on back-end
-- 📫 How to reach me : my email is hanxuchang_mail@163.com and my QQ is 1415524426.
-
+- 💞️ My research direction is NLP
+- 📫 Email ： hanxuchang_mail@163.com
+- 🐧 QQ ： 1415524426.
